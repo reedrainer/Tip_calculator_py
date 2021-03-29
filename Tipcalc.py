@@ -1,4 +1,4 @@
-print("James' really cool tip calculator")
+print("Reed's really cool tip calculator")
 full_amount = input("Pleae input the bill total here!\n£")
 
 people = input("How many people are splitting the bill?\n")
