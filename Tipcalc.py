@@ -14,4 +14,4 @@ final_calc = round((int(full_amount) + tip) / int(people),2)
 
 print(f"Ok so each person needs to pay\n£{final_calc}")
 
-input("anything else?")
+input("anything else?") #This is here beacuse i dont know how get the IDE to display the final output without instantly closing without it.
